@@ -1,0 +1,7 @@
+[
+    {"product_id": 101, "name": "Laptop", "category": "Electronics", "popularity": 95},
+    {"product_id": 102, "name": "Smartphone", "category": "Electronics", "popularity": 90},
+    {"product_id": 103, "name": "Coffee Maker", "category": "Home Appliances", "popularity": 85},
+    {"product_id": 104, "name": "Book - Python Programming", "category": "Books", "popularity": 80},
+    {"product_id": 105, "name": "Headphones", "category": "Electronics", "popularity": 88}
+]

@@ -1,0 +1,7 @@
+[
+    {"user_id": 1, "name": "Alice", "age": 30, "location": "New York"},
+    {"user_id": 2, "name": "Bob", "age": 25, "location": "San Francisco"},
+    {"user_id": 3, "name": "Charlie", "age": 35, "location": "Los Angeles"},
+    {"user_id": 4, "name": "David", "age": 40, "location": "Chicago"},
+    {"user_id": 5, "name": "Eva", "age": 28, "location": "Seattle"}
+]

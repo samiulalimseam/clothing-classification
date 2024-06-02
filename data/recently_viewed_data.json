@@ -1,0 +1,17 @@
+[
+    {"user_id": 1, "product_id": 103},
+    {"user_id": 1, "product_id": 104},
+    {"user_id": 1, "product_id": 105},
+    {"user_id": 2, "product_id": 101},
+    {"user_id": 2, "product_id": 105},
+    {"user_id": 2, "product_id": 104},
+    {"user_id": 3, "product_id": 104},
+    {"user_id": 3, "product_id": 102},
+    {"user_id": 3, "product_id": 105},
+    {"user_id": 4, "product_id": 103},
+    {"user_id": 4, "product_id": 101},
+    {"user_id": 4, "product_id": 102},
+    {"user_id": 5, "product_id": 105},
+    {"user_id": 5, "product_id": 102},
+    {"user_id": 5, "product_id": 103}
+]
